@@ -2,11 +2,11 @@ var currentLiveVideo;
 var timer;
 var i =0;
 var youtubediv = new Array();
-var MyKEY = 'AI39si4VFDZ0JHV-Ck2GhkHa1iDVtL3fF-YP40N883Xe0MUQ6SVsCUbOEsV0nZ12QOtSRdww2GIw4MEkfaRRD-wmtxP1Uv7oXA';
+var MyKEY = 'ADD_YOU_APPKEY_HERE';
 var listComments;
-var defaultid = 'Prophetbismark';  // Set the Default video channel to load
+var defaultid = 'YOUTUBE_CHANNEL_ID';  // Set the Default youtube channel to load
 var did;
-var vid = '_cWSbBiTbrA';   // Set the default video ID to play onload'
+var vid = 'YOUTUBE_VIDEO_ID';   // Set the default video ID to play here'
 var nextPage = 2;
 var previousPage = 0;
 var previousQueryType = 'hot';
